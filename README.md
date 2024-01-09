@@ -2,7 +2,7 @@
 An AI assistant, suggesting users about healthy foods and how to handle food properly with the aim of reducing food waste by simply uploading the picture of the food product.
 
 ## Problem 
-Limited data analysis capabilities, inefficient decision-making processes, insufficient strategic planning due to restricted AI understanding.
+LLM could have limited data analysis capabilities, inefficient decision-making processes, insufficient strategic planning due to restricted AI understanding.
 
 ## Solution 
 Unlimited Context AI Agents Multi-Agent Environments: A network of AI agents working in tandem, ensuring comprehensive data analysis. Each agent understands and utilizes a broad range of contextual information, leading to more accurate and insightful decisions.
